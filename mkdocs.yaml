@@ -6,7 +6,6 @@ nav:
   - Getting Started: getting-started.md
   - API Reference: api-reference.md
   - Troubleshooting: : troubleshooting.md
-theme:
-  - name: material
+
 plugins:
   - techdocs-core
