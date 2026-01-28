@@ -2,9 +2,9 @@
 
 ---
 
-A DOC EXAMPLE FOR TESTING CHANGES IN GIT
+A DOC EXAMPLE FOR TESTING CHANGES IN GIT USER03
 
-test of lower case 
+test of lower case user03
 
 ---
 
